@@ -2,7 +2,6 @@ package analysis;
 
 import analysis.LogLevelCounter.LogLevel;
 
-import java.io.IOException;
 import java.nio.file.*;
 import java.time.Duration;
 import java.time.Instant;
